@@ -6,6 +6,7 @@
 //your PHP code goes here
 ?>
  <b>Here is some more HTML</b>
+  <b>Well Come HTML</b>
  <?php
  //more PHP code
  ?>
